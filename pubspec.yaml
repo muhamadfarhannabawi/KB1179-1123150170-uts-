@@ -59,6 +59,7 @@ flutter:
   assets:
    - android\assets\images\image_1.jpg
    - android\assets\images\image_2.jpg
+   - android\assets\images\image_3.jpg
 
     
  
