@@ -23,7 +23,7 @@ class SplashScreen1 extends StatelessWidget {
                 color: Colors.deepPurple,
                 image: DecorationImage(
                   fit: BoxFit.cover,
-                  image: AssetImage('android/assets/images/image1.jpg'),
+                  image: AssetImage('android/assets/images/image_1.jpg'),
                 ),
               ),
             ),
